@@ -35,3 +35,23 @@ at your option.
 Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion in
 the work by you, as defined in the Apache-2.0 license, shall be dual licensed as above, without
 any additional terms or conditions.
+
+## Hardware 
+
+Ref divider: 0.911K, 199.7R, Vref = 0.591V
+
+Voltage dividers:
+- L1: 388.3K 510R
+- L2: 395.4K 506.5R
+- L3: 393.1K 486.8R
+
+Current sense:
+- L1: 20.1R
+- L2: 20.1R
+- L3: 20.1R
+
+Multimeter lead resistance: 0.3R
+
+Current sense RC filter: 367.8K 5pF
+Voltage sense RC filter: 5pF
+
